@@ -8,6 +8,10 @@ body {
   font-weight: 100;
 }
 
+#mainNavbar .navbar-brand {
+  color: #ea1c2c;
+}
+
 #mainNavbar .nav-link {
   text-transform: uppercase;
   color: white;
