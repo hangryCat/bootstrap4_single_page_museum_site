@@ -10,4 +10,5 @@ body {
 
 #mainNavbar .nav-link {
   text-transform: uppercase;
+  color: white;
 }
