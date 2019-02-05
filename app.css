@@ -12,3 +12,7 @@ body {
   text-transform: uppercase;
   color: white;
 }
+
+#mainNavbar .nav-link:hover {
+  color: #ea1c2c;
+}
