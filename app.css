@@ -8,6 +8,6 @@ body {
   font-weight: 100;
 }
 
-#navLinks nav {
+#mainNavbar .nav-link {
   text-transform: uppercase;
 }
