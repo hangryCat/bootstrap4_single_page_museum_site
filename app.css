@@ -3,7 +3,7 @@ body {
   font-family: Nunito, sans-serif;
 }
 
-#mainNavbar {
+#mainNavbar>* {
   font-size: 1.5rem;
   font-weight: 100;
 }
