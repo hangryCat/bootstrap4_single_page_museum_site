@@ -3,6 +3,11 @@ body {
   font-family: Nunito, sans-serif;
 }
 
+#mainNavbar {
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+
 #navLinks nav {
   text-transform: uppercase;
 }
