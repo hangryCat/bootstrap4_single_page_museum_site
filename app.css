@@ -45,6 +45,12 @@ body {
   text-transform: uppercase;
 }
 
+@media (max-width: 1200px) {
+  .blurb h2 {
+    font-size: 2rem;
+  }
+}
+
 .blurb p {
   color: #f498b8;
   font-weight: 100;
